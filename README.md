@@ -6,7 +6,7 @@ Welcome to the Pothole Detection System repository! This project demonstrates an
 
 To see the pothole detection system in action, watch the demo video below:
 
-[Watch the demo video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7230758159672369152/)
+[Watch the demo video](https://www.linkedin.com/feed/update/urn:li:activity:7230758159672369152/)
 
 In this video, you'll see how the system detects potholes in real-time and alerts drivers to avoid potential damage to their vehicles.
 
@@ -19,4 +19,4 @@ In this video, you'll see how the system detects potholes in real-time and alert
 
 Thank you for checking out our Pothole Detection System! We hope you find it useful and informative.
 
-For more details, visit the [Demo Video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7230758159672369152/).
+
